@@ -135,7 +135,7 @@ Data Engineer with strong foundation in **big data processing**, **cloud service
 
 ---
 
-## 🚀 Featured Data Engineering Projects
+## 🚀 Data Engineering Projects
 
 <div align="center">
 
@@ -199,20 +199,20 @@ Data Engineer with strong foundation in **big data processing**, **cloud service
 </td>
 <td width="50%">
 
-### 📊 Data Lake Modernization
-**Cloud-Native Analytics Platform**
+### 🪙 Real-Time Crypto Exchange Pipeline
+**Live Financial Data Streaming Platform**
 
-![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
-![AWS Glue](https://img.shields.io/badge/AWS%20Glue-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Apache Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=flat-square&logo=apache-parquet&logoColor=white)
-![AWS Athena](https://img.shields.io/badge/AWS%20Athena-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Apache Flink](https://img.shields.io/badge/Flink-E6526F?style=flat-square&logo=apache-flink&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
-**☁️ Modern Architecture:**
-- 🗃️ **Storage**: S3 data lake with optimized partitioning
-- 🔄 **ETL**: Serverless Glue jobs for data transformation
-- 📊 **Analytics**: Athena for serverless SQL queries
-- 💰 **Cost Optimization**: 70% reduction in storage costs
-- 🚀 **Scalability**: Auto-scaling for variable workloads
+**⚡ Real-time Features:**
+- 📡 **API Ingestion**: Live crypto/fiat prices from CoinGecko
+- 🌊 **Stream Processing**: Flink SQL for data transformation
+- 🔗 **Data Joining**: Real-time stream enrichment
+- 📊 **Fast Analytics**: ClickHouse for sub-second queries
+- 📈 **Monitoring**: Grafana dashboards for exchange rates
 
 </td>
 </tr>
