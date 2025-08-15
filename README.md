@@ -9,9 +9,7 @@
 
 <!-- Enhanced Typing effect animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=667EEA&background=00000000&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Data+Engineer+🚀;Building+Scalable+ETL+Pipelines+⚡;Real-time+Streaming+Expert+🌊;Cloud-Native+Data+Solutions+☁️;Big+Data+Processing+Wizard+🔮" alt="Typing SVG" />
-
-  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=667EEA&background=00000000&center=true&vCenter=true&multiline=true&width=1000&height=200&lines=Data+Engineer+🚀;Building+Scalable+ETL+Pipelines+⚡;Real-time+Streaming+Expert+🌊;Cloud-Native+Data+Solutions+☁️;Big+Data+Processing+Wizard+🔮" alt="Typing SVG" />
 </p>
 
 <br/>
@@ -42,6 +40,8 @@
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="50" alt="Data Flow"/>
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=1000&pause=500&color=4FACFE&center=true&vCenter=true&repeat=true&width=400&lines=📊+RAW+DATA+→+ETL+→+INSIGHTS+📈" alt="Pipeline" />
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="50" alt="Data Flow"/>
+
+  
 </p>
 
 </div>
