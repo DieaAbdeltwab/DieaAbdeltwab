@@ -10,6 +10,8 @@
 <!-- Enhanced Typing effect animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=667EEA&background=00000000&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Data+Engineer+🚀;Building+Scalable+ETL+Pipelines+⚡;Real-time+Streaming+Expert+🌊;Cloud-Native+Data+Solutions+☁️;Big+Data+Processing+Wizard+🔮" alt="Typing SVG" />
+
+  
 </p>
 
 <br/>
