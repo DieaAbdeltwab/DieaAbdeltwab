@@ -252,8 +252,8 @@ Data Engineer with strong foundation in **big data processing**, **cloud service
 ### ☁️ **AWS Academy Graduate**
 ![AWS](https://img.shields.io/badge/AWS%20Academy-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-🎓 **AWS Academy Data Engineering**  
-*Graduate (Jun 2025)*
+🎓 **AWS Academy Data Engineering** *(Jun 2025)*    
+🎓 **AWS Academy Cloud Foundations** *(Jun 2025)*   
 
 **Specializations:**
 - ☁️ AWS data services ecosystem (S3, Glue, EMR, Redshift)
