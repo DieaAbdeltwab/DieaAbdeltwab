@@ -226,33 +226,6 @@ Data Engineer with strong foundation in **big data processing**, **cloud service
 
 ---
 
-## 📊 GitHub Analytics Dashboard
-
-<div align="center">
-  
-  <!-- Stats cards with enhanced styling -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dieaabdeltwab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=4facfe&text_color=ffffff&ring_color=667eea&custom_title=📊+Data+Engineering+Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieaabdeltwab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff&custom_title=⚡+Tech+Stack"/>
-
-  <br/><br/>
-  
-  <!-- Contribution streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dieaabdeltwab&theme=tokyonight&hide_border=true&background=0d1117&ring=667eea&fire=4facfe&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff"/>
-  
-  <br/><br/>
-  
-  <!-- Activity graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dieaabdeltwab&theme=react-dark&bg_color=0d1117&color=667eea&line=4facfe&point=ffffff&area=true&hide_border=true&custom_title=📈+Contribution+Activity" width="100%"/>
-
-</div>
-
-<!-- Animated coding stats -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=800&color=667EEA&center=true&vCenter=true&repeat=true&width=700&lines=📈+Commits%3A+Building+Data+Solutions+Daily;⚡+Languages%3A+Python+%7C+SQL+%7C+Scala;🔥+Focus%3A+ETL+Pipelines+%26+Real-time+Processing;☁️+Platform%3A+AWS+%26+Open+Source+Technologies" alt="Coding Stats" />
-</div>
-
----
-
 ## 🏆 Certifications & Professional Development
 
 <div align="center">
