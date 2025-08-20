@@ -68,7 +68,7 @@
 </td>
 <td width="50%">
 
-### 🌟 Professional Summary
+### 🌟 Professional 
 Data Engineer with strong foundation in **big data processing**, **cloud services**, and **modern data architectures**. Specialized in building end-to-end ETL pipelines, real-time streaming solutions, and scalable data platforms that handle petabytes of data.
 
 **Core Expertise:**
@@ -155,7 +155,6 @@ Data Engineer with strong foundation in **big data processing**, **cloud service
 - ⚡ **Processing**: Distributed Spark ETL with dimensional modeling
 - 🏛️ **Data Warehouse**: Star schema for OLAP analytics
 - 📊 **Visualization**: Interactive Power BI dashboards
-- 🔄 **Scalability**: Handles 1B+ records with sub-second queries
 
 </td>
 <td width="50%">
@@ -173,7 +172,6 @@ Data Engineer with strong foundation in **big data processing**, **cloud service
 - 🌊 **Event Streaming**: Kafka-based message processing  
 - ⚡ **Low Latency**: <100ms end-to-end data delivery
 - 📈 **Analytics**: ClickHouse for OLAP workloads
-- 🚀 **Throughput**: 1M+ events/second processing
 
 </td>
 </tr>
@@ -189,11 +187,9 @@ Data Engineer with strong foundation in **big data processing**, **cloud service
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
 
 **🔧 Orchestration Pipeline:**
-- 🔄 **Workflow**: Complex DAGs with dependency management
 - 🏗️ **Data Modeling**: Dimensional modeling for retail analytics
-- 📊 **OLAP Engine**: ClickHouse for high-performance queries
-- 📈 **Monitoring**: Custom metrics and alerting system
-- ⚡ **Performance**: 10x faster query response times
+- 📈 **OLAP Engine**: ClickHouse for high-performance queries
+- 📊 **Visualization**: Power BI dashboards
 
 </td>
 <td width="50%">
@@ -256,18 +252,53 @@ Data Engineer with strong foundation in **big data processing**, **cloud service
 🎓 **AWS Academy Cloud Foundations** *(Jun 2025)*   
 
 **Specializations:**
-- ☁️ AWS data services ecosystem (S3, Glue, EMR, Redshift)
-- 🏗️ Serverless data architectures
-- 💰 Cost optimization for big data workloads
-- 🔐 Data security & compliance best practices
+- AWS data services ecosystem (S3, Glue, EMR, Redshift)
+- Serverless data architectures
+- Cost optimization for big data workloads
+- Data security & compliance best practices
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 🎯 **Mahara Tech Specialization**
+![Mahara Tech](https://img.shields.io/badge/Mahara%20Tech-FF6B35?style=for-the-badge&logo=microsoft&logoColor=white)
+
+✅ **Database Fundamentals** *(Apr 2025)*  
+✅ **Transact SQL Queries using SQL Server** *(Aug 2025)*  
+✅ **Implementing & Developing SQL Server Objects** *(May 2025)*  
+
+**Skills Mastered:**
+- Advanced T-SQL query optimization
+- Stored procedures & function development
+- Database design & normalization
+- Performance tuning & indexing strategies
+
+</td>
+<td align="center" width="50%">
+
+### 🎓 **Coursera Specializations**
+![Coursera](https://img.shields.io/badge/Coursera-0056D3?style=for-the-badge&logo=coursera&logoColor=white)
+
+🚀 **Coming Soon...**
+
+*Building expertise through industry-leading courses*
+
+**Target Areas:**
+- Google Data Models and Pipelines
+- Meta Advanced Data Modeling
 
 </td>
 </tr>
 </table>
 
+<!-- Certification progress animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=4FACFE&center=true&vCenter=true&repeat=true&width=900&lines=🏆+23%2B+Hours+of+Specialized+Database+Training;📚+Multi-Platform+Certification+Portfolio;⚡+Continuous+Learning+%26+Skill+Enhancement;🎯+Industry-Recognized+Professional+Development" alt="Certification Stats" />
 </div>
 
----
+</div>
 
 ## 🎯 Current Learning Journey & Future Goals
 
@@ -277,7 +308,7 @@ Data Engineer with strong foundation in **big data processing**, **cloud service
 <tr>
 <td width="50%">
 
-### 🔥 **Currently Mastering**
+### 🔥 **Currently Learning**
 
 ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=flat-square&logo=apache-flink&logoColor=white) **Stream Processing Excellence**
 - Complex event processing patterns
@@ -294,25 +325,30 @@ Data Engineer with strong foundation in **big data processing**, **cloud service
 - Schema evolution capabilities
 - Time travel and rollback features
 
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) **Analytics Engineering**
+- Data transformation workflows
+- Version control for data models
+- Data quality testing and monitoring
+
 </td>
 <td width="50%">
 
 ### 🎯 **Next Milestones**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) **Solutions Architect Professional**
-- Advanced cloud architecture patterns
-- Multi-account data governance
-- Cost optimization at enterprise scale
+🐍 **Advanced Python for Data**
+- Concurrent and parallel processing
+- Memory optimization techniques
+- Custom data pipeline frameworks
+
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white) **Infrastructure as Code**
+- Cloud-agnostic infrastructure
+- Data platform automation
+- Resource provisioning at scale
 
 🌟 **Open Source Contributions**
 - Contributing to Apache Kafka
 - Data engineering tool development
 - Community-driven projects
-
-🏗️ **Data Mesh Architecture**
-- Domain-driven data ownership
-- Self-serve data platforms
-- Federated data governance
 
 ⚡ **Real-time Analytics Mastery**
 - Sub-second query performance
@@ -330,7 +366,7 @@ Data Engineer with strong foundation in **big data processing**, **cloud service
 
 ---
 
-## 💼 Professional Experience & Expertise
+## 💼 Professional Journey & Aspirations
 
 <div align="center">
 
@@ -338,15 +374,15 @@ Data Engineer with strong foundation in **big data processing**, **cloud service
 <tr>
 <td align="center" width="100%">
 
-### **Diea Abdeltwab** | Senior Data Engineering Specialist
-*Architecting scalable data solutions for enterprise success*
+### **Diea Abdeltwab** | Aspiring Data Engineer
+*Building foundational skills for tomorrow's data challenges*
 
 ---
 
 **🏗️ Data Architecture** | **⚡ Stream Processing** | **☁️ Cloud Engineering** | **📊 Analytics Engineering**
 :---: | :---: | :---: | :---:
-Pipeline Design & Optimization | Real-time Event Processing | AWS Data Services Ecosystem | Business Intelligence Solutions
-ETL/ELT Automation | Apache Kafka & Flink | Infrastructure as Code | Advanced SQL & Data Modeling
+Pipeline Design & Development | Real-time Event Processing | Cloud Data Services | Business Intelligence Solutions
+ETL/ELT Implementation | Apache Kafka & Flink | Infrastructure as Code | Advanced SQL & Data Modeling
 Data Lake & Warehouse Design | Change Data Capture (CDC) | Container Orchestration | Performance Optimization
 
 ---
