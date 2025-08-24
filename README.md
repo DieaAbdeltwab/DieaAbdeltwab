@@ -159,20 +159,28 @@ Data Engineer with strong foundation in **big data processing**, **cloud service
 </td>
 <td width="50%">
 
-### ⚡ Real-Time CDC Stream Pipeline
-**Event-Driven Data Integration Platform**
 
+
+
+### 🚌 NYC MTA Transit Operations Pipeline
+**Real-time Streaming & Batch Processing Architecture**
+
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D0?style=flat-square&logo=microsoft-azure&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
-![Debezium](https://img.shields.io/badge/Debezium-FF6B35?style=flat-square&logo=debezium&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white)
 
-**🌊 Streaming Features:**
-- 🔄 **CDC**: Real-time change capture from MySQL
-- 🌊 **Event Streaming**: Kafka-based message processing  
-- ⚡ **Low Latency**: <100ms end-to-end data delivery
-- 📈 **Analytics**: ClickHouse for OLAP workloads
-
+**🏗️ Architecture Highlights:**
+- 📡 **Data Sources**: Transitland web scraping + GTFS real-time APIs
+- 📦 **Batch Processing**: Daily ETL jobs with historical data versioning
+- ⚡ **Streaming Engine**: Kafka + Spark for live vehicle tracking
+- 🏛️ **Data Warehouse**: PostgreSQL staging + ClickHouse analytics
+- 📊 **Business Intelligence**: Power BI & Metabase dashboards
+  
 </td>
 </tr>
 <tr>
