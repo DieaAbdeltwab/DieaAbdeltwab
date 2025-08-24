@@ -4,6 +4,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hi%20👋,%20I'm%20Diea%20Abdeltwab&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=🚀%20Passionate%20Data%20Engineer&descAlignY=55&descSize=18"/>
 
 ### 🌟 Transforming raw data into actionable insights | ITI Graduate | Big Data Enthusiast
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</div>
 
 <br/>
 
